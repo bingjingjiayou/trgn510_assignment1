@@ -1,4 +1,3 @@
-# My processes
 root     252892   2198  0 18:57 ?        00:00:00 sshd: bingjing [priv]
 bingjing 252896 252892  0 18:57 ?        00:00:00 sshd: bingjing@pts/0
 bingjing 252897 252896  0 18:57 pts/0    00:00:00 -bash

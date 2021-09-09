@@ -276,5 +276,5 @@ alias tree='tree -Csuh'    #  Nice alternative to 'recursive ls' ...
 alias more='less'
 export PAGER=less
 export PATH=${PATH}:~/bin
-echo "The improved BASHRC is installed
-"echo "Welcome. You are $USER on $HOSTNAME" #
+echo "The improved BASHRC is installed"
+echo "Welcome. You are $USER on $HOSTNAME" 

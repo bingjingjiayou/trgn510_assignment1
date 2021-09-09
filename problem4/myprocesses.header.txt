@@ -1,0 +1,126 @@
+# My processes
+    1  passwd
+    2  bingjing
+    3  passwd
+    4  bingjing
+    5  passwd
+    6  bingjing
+    7  passwd
+    8  tree ~
+    9  mkdir bin
+   10  mkdir scripts
+   11  mkdir projects
+   12  tree ~
+   13  git add -A
+   14  cd trgn510_assignment1
+   15  pwd
+   16  cd assignments/
+   17  cd trgn510_assignment1/
+   18  git add . -A
+   19  git commit -m "update"
+   20  pwd
+   21  list
+   22  mkdir
+   23  tree ~
+   24  git add . -A
+   25  git commit -m "First commit"
+   26  git push
+   27  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
+   28  git push
+   29  pwd
+   30  mkdir problem1
+   31  ls
+   32  cd problem1/
+   33  pwd
+   34  mkdir bing.txt
+   35  git add . -A
+   36  git commit -m "add a bing.txt"
+   37  ls
+   38  cd ./
+   39  ls
+   40  cd ././
+   41  cd ..
+   42  ls
+   43  pwd
+   44  git add . -A
+   45  git commit -m "add a bing.txt"
+   46  cd problem1/
+   47  ls
+   48  cd //
+   49  cd..
+   50  ls
+   51  cd .
+   52  cd home/
+   53  ls
+   54  cd bingjing/
+   55  cd assignments/
+   56  cd trgn510_assignment1/
+   57  ls
+   58  cd problem1/
+   59  rm bing.txt/
+   60  rm -r bing.txt/
+   61  ls
+   62  cd ..
+   63  ls
+   64  cd problem1/
+   65  ls
+   66  cd ..
+   67  mkdir bing.txt
+   68  git add -A
+   69  git commit -m "add bing.txt"
+   70  rm bing.txt/ -r
+   71  ls
+   72  cd problem1
+   73  history > myhistory.txt
+   74  cat myhistory.txt
+   75  cd ~
+   76  ls
+   77  cd assignments
+   78  cd trgn_assignment1
+   79  mkdir problem2
+   80  cp /data/bashrc_sample ~/assignments/trgn_assignment1/problem2/.
+   81  ls
+   82  cp /data/bashrc_sample ~/assignments/trgn510_assignment1/problem2/.
+   83  cd trgn_assignment1
+   84  cd trgn510_assignment1
+   85  cp /data/bashrc_sample ~/assignments/trgn510_assignment1/problem2/
+   86  cd problem2
+   87  ls
+   88  mkdir problem2
+   89  cd problem2
+   90  ls
+   91  cp /data/bashrc_sample ~/assignments/trgn510_assignment1/problem2/
+   92  ls
+   93  vim bashrc_sample
+   94  source ~/assignments/trgn_assignment1/problem2/bashrc_sample
+   95  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+   96  cp ~/assignments/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+   97  cp ~/assignments/trgn_assignment1/problem2/bashrc_sample ~/.bashrc
+   98  cp ~/assignments/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+   99  cp /home/data/vimrc ~/assignments/trgn_assignment1/problem2/
+  100  cp /home/data/vimrc ~/assignments/trgn510_assignment1/problem2/
+  101  cp vimrc ~/.vimrc
+  102  vi.
+  103  ls
+  104  vim vimrc
+  105  cd ..
+  106  mkdir problem3
+  107  rm problem3
+  108  ls-1
+  109  ls -1
+  110  rmdir problem3
+  111  ls -1
+  112  mkdir "problem 3"
+  113  ls -1
+  114  cd "problem 3"
+  115  mkdir My History.txt
+  116  rmdir My History.txt
+  117  history > My History.txt
+  118  history "My History.txt"
+  119  history > "My History.txt"
+  120  ls
+  121  cd..
+  122  cd ..
+  123  mkdir problem4
+  124  cd problem4
+  125  history > myprocesses.txt

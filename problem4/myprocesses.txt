@@ -1,6 +1,5 @@
-root     252892   2198  0 18:57 ?        00:00:00 sshd: bingjing [priv]
-bingjing 252896 252892  0 18:57 ?        00:00:00 sshd: bingjing@pts/0
-bingjing 252897 252896  0 18:57 pts/0    00:00:00 -bash
-bingjing 252982 252897  0 18:59 pts/0    00:00:01 top
-bingjing 260805 252897  0 20:23 pts/0    00:00:00 ps -ef
-bingjing 260806 252897  0 20:23 pts/0    00:00:00 grep --color=auto bingjing
+root      64545   2198  0 18:14 ?        00:00:00 sshd: bingjing [priv]
+bingjing  64553  64545  0 18:14 ?        00:00:00 sshd: bingjing@pts/0
+bingjing  64554  64553  0 18:14 pts/0    00:00:00 -bash
+bingjing  67152  64554  0 19:14 pts/0    00:00:00 ps -ef
+bingjing  67153  64554  0 19:14 pts/0    00:00:00 grep --color=auto bingjing
